@@ -1,2 +1,0 @@
-# WeatherR
-weather test
